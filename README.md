@@ -1,7 +1,7 @@
 # OnlineFoodOrderingSystem
 My project title is "Online Food Ordering System".This is a Web application developing to provide complete solutions for vendors/owner as well as customers through a single get way using the internet.It will enable vendors/Owner to setup online foods, customer to browse through the shop and purchase them online without having to visit the shop physically in this pandemic situation.
 
-This Project is Made for Future ready talent offered by microsoft azure https://new-hopital.azurewebsites.net
+This Project is Made for Future ready talent offered by microsoft azure https://onlinehealthyfoodorderingsystem.azurewebsites.net/
 
 Microsoft Azure is great platform to use and it has many services and features. In this project I used azure app service and web apps for deploying My code ✔Azure App service
 
