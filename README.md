@@ -15,10 +15,11 @@ deployment centre >settings fill the needed details like repository name URL Bra
 
 Then You can deploy website in overview when you click on URL you can see youre websiteDeployment_centre Overview
 
-THIS IS VIDEO URL DEMO OF MY WEBSITE DEPLOYMENT IT IS SAMPLE VIDEO >>>
+
 
 ![image](https://user-images.githubusercontent.com/79084462/150804618-f9ece406-1aed-4238-8959-511d3389d242.png)
 
 
 ![image](https://user-images.githubusercontent.com/79084462/150805541-b7c87991-6f08-40ef-81e2-1e659f581619.png)
 
+THIS IS VIDEO URL DEMO OF MY WEBSITE DEPLOYMENT IT IS SAMPLE VIDEO >>>
